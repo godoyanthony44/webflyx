@@ -5,6 +5,6 @@
 <<<<<<< HEAD
 - "The spice must flow."
 - "Fear is the mind-killer"
--oh lrod
+- oh lrod
 =======
 >>>>>>> main
